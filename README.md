@@ -1,3 +1,10 @@
+# Notice
+
+This repository is a fork of [libavif](https://github.com/AOMediaCodec/libavif), modified to enable extraction of intermediate decoding data.  
+This is useful for research or analysis purposes (e.g., machine learning input).
+
+---
+
 # libavif
 
 This library aims to be a friendly, portable C implementation of the AV1 Image
